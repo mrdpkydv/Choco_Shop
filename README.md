@@ -1,6 +1,6 @@
 # Choco_Shop
 
-Hosted Link -
+Hosted Link -  https://mrdpkydv.github.io/Choco_Shop/
 
 Task-
 Objective: Create a feature that allows customers to build a custom pack of 8
